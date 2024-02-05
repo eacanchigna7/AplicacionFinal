@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\AplicacionAdminMaquinaria_EC\AplicacionAdminMaquinaria_EC\bin\Debug\AplicacionAdminMaquinaria_EC.exe.config
+C:\Users\Dell\source\repos\AplicacionAdminMaquinaria_EC\AplicacionAdminMaquinaria_EC\bin\Debug\AplicacionAdminMaquinaria_EC.exe
+C:\Users\Dell\source\repos\AplicacionAdminMaquinaria_EC\AplicacionAdminMaquinaria_EC\bin\Debug\AplicacionAdminMaquinaria_EC.pdb
+C:\Users\Dell\source\repos\AplicacionAdminMaquinaria_EC\AplicacionAdminMaquinaria_EC\obj\Debug\AplicacionAdminMaquinaria_EC.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\AplicacionAdminMaquinaria_EC\AplicacionAdminMaquinaria_EC\obj\Debug\AplicacionAdminMaquinaria_EC.Empleado.resources
+C:\Users\Dell\source\repos\AplicacionAdminMaquinaria_EC\AplicacionAdminMaquinaria_EC\obj\Debug\AplicacionAdminMaquinaria_EC.Properties.Resources.resources
+C:\Users\Dell\source\repos\AplicacionAdminMaquinaria_EC\AplicacionAdminMaquinaria_EC\obj\Debug\AplicacionAdminMaquinaria_EC.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\AplicacionAdminMaquinaria_EC\AplicacionAdminMaquinaria_EC\obj\Debug\AplicacionAdminMaquinaria_EC.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\AplicacionAdminMaquinaria_EC\AplicacionAdminMaquinaria_EC\obj\Debug\AplicacionAdminMaquinaria_EC.exe
+C:\Users\Dell\source\repos\AplicacionAdminMaquinaria_EC\AplicacionAdminMaquinaria_EC\obj\Debug\AplicacionAdminMaquinaria_EC.pdb
